@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/ (optional)
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
 url: "http://www.your-domain.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
@@ -53,7 +53,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
+  google_fonts: "Lato|Source+Sans+Pro:300,300i,400,700"
 
 # PAGINATION
 paginate: 100
